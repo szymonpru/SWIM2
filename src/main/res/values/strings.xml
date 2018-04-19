@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SWIM2</string>
+    <string name="add">add</string>
+    <string name="title_activity_recycler">RecyclerActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unloaded_text">Unloaded text</string>
+    <string name="album_name">Album Name</string>
+    <string name="year">YEAR</string>
+    <string name="author_name">(Author name)</string>
+    <string name="category">(Category)</string>
+</resources>
