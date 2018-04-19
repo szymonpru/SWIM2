@@ -17,7 +17,6 @@ import com.example.turli.swim2.ArtistClasses.Authors;
 
 
 public class AlbumsFragment extends Fragment {
-//6666
     public void setAuthorId(int authorId) {
         this.authorId = authorId;
     }
