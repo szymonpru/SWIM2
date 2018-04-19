@@ -20,7 +20,6 @@ public class AlbumsFragment extends Fragment {
     public void setAuthorId(int authorId) {
         this.authorId = authorId;
     }
-
     private int authorId;
     private View view;
     private RecyclerView recyclerView;
