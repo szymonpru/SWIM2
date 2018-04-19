@@ -23,7 +23,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by turli on 26.03.2018.
+ * Created by turli onn 26.03.2018.
  */
 
 public class AuthorAdapter extends RecyclerView.Adapter {
